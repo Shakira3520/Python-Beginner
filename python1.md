@@ -17,3 +17,13 @@ Variabel berfungsi sebagai wadah penyimpanan dari suatu nilai. Sedangkan untuk t
 ![Screenshot (212)](https://user-images.githubusercontent.com/92997232/140611224-15b6a880-ed9d-4213-85cf-f6e16cd2b843.png)
 
 **3. MENERIMA INPUT USER**
+
+Di bagian ini, kita akan membuat sebuah program dimana outputnya nanti adalah hasil dari inputan manual yang sudah user masukkan. 
+
+![Screenshot (213)](https://user-images.githubusercontent.com/92997232/140611634-57117082-66f8-4af9-b086-45a510d5e929.png)
+
+**4. TYPO CONVERTION (KONVERSI TIPE DATA)**
+
+Di bagian ini, kita akan mencoba membuat program dimana untuk inputnya memiliki sebuah nilai bilangan. Caranya yaitu kita hanya perlu menambahkan variabel integer sebelum menggunakan fungsi output.
+
+![Screenshot (214)](https://user-images.githubusercontent.com/92997232/140611951-ea18f852-94b9-4750-a82b-970ece063f37.png)
