@@ -30,4 +30,26 @@ Dimaksudkan untuk membuat output/ string dengan format yang cukup rumit. Untuk m
 
 **4. MATEMATIKA**
 
-Ada beberapa operator matematika yang terdapat di dalam bahasa pemrograman python. Operator + berfungsi sebagai penjumlahan, - berfungsi sebagai pengurangan, * berfungsi sebagai perkalian, ** berfungsi sebagai perpangkatan
+Ada beberapa operator matematika yang terdapat di dalam bahasa pemrograman python. Operator + berfungsi sebagai penjumlahan, - berfungsi sebagai pengurangan, * berfungsi sebagai perkalian, ** berfungsi sebagai perpangkatan, / berfungsi sebagai pembagian dimana hasilnya adalah angka float (desimal), // berfungsi sebagai pembagian dengan hasil adalah bilangan bulat, % berfungsi sebagai menampilkan sisa bagi.
+
+![Screenshot (218)](https://user-images.githubusercontent.com/92997232/140644605-cf5f1926-86b6-4143-9f45-6efeae3b33a2.png)
+
+**5. OPERATOR PRECEDENCE**
+
+Operasi precedence dimaksudkan untuk mengetahui operasi mana yang didahulukan. Dalam operasi matematika, posisi paling atas atau yang di dahulukan untuk dikerjakan adalah yang berada di dalam tanda kurung, disusul oleh perpangkatan, dilanjutkan oleh perkalian atau pembagian kemudian penjumlahan atau pengurangan. 
+
+![Screenshot (219)](https://user-images.githubusercontent.com/92997232/140644948-91e1520c-43f4-470e-ba1f-25b94af5878d.png)
+
+**6. MATH MODULE**
+
+Beberapa fungsi-fungsi matematika yang bisa digunakan pada python.
+
+- Fungsi round berfungsi untuk membulatkan angka desimal
+
+- Fungsi ceil berfungsi untuk membulatkan angka rendah ke atas. Misalnya nilai 3,4 maka akan dipaksakan pembulatan menjadi 4 yang sebenarnya tidak bisa.
+
+- Import math bukan fungsi, merupakan package atau module. Berfungsi untuk memanggil fungsi-fungsi math yang tidak bisa digunakan oleh bahasa python, contohnya adalah ceil.
+
+![Screenshot (220)](https://user-images.githubusercontent.com/92997232/140645759-cf60447e-27e2-44c0-8b2d-bafd174e72bb.png)
+
+![Screenshot (221)](https://user-images.githubusercontent.com/92997232/140645780-161150af-9f74-4aa3-9980-c0e8c8916d63.png)
