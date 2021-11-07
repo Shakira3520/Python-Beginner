@@ -30,3 +30,4 @@ Dimaksudkan untuk membuat output/ string dengan format yang cukup rumit. Untuk m
 
 **4. MATEMATIKA**
 
+Ada beberapa operator matematika yang terdapat di dalam bahasa pemrograman python. Operator + berfungsi sebagai penjumlahan, - berfungsi sebagai pengurangan, * berfungsi sebagai perkalian, ** berfungsi sebagai perpangkatan
